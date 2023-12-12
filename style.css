@@ -95,8 +95,13 @@ body {
 
 @media (max-width: 600px) {
   .cord {
-    margin: 20px auto;
-    max-width: 100%;
     left: 25%;
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid white; 
+    color: white; 
+    display: none; 
+    position: absolute; 
+    top: 300px; 
   }
 }
